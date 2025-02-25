@@ -5,7 +5,8 @@ Implemented: <br/>
 3. Texture mapping: ambient, diffuse, specular, normal, bump maps ; scrolling textures <br/> 
 4. 3D Models rendering </br>
 5. Environmental (weather) effects: fog, rain, snow, thunderstorm
-6. Camera: move freely around the world ; presentation camera modes 
+6. Dynamic object creation. Press to spawn objects in the world. 
+7. Camera: move freely around the world ; presentation camera modes 
 ![house](https://github.com/user-attachments/assets/08d8c719-70d2-4260-9589-c3497e85e64f)
 ![nofog](https://github.com/user-attachments/assets/38cb62ae-cd8e-4c2e-ac59-09eb9fce8a58)
 ![fog](https://github.com/user-attachments/assets/d9ba37e1-b8ae-4f3d-a7d6-8369dcd1c3a5)
